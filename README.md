@@ -2,11 +2,9 @@
 
 Docker images that runs Prometheus monitoring.
 
-## Features
+## Demo
 
-- Based on the latest Prometheus release.
-- Configured to expose metrics on port `9090`.
-- Ready to use with minimal configuration.
+<https://showcase-prometheus.onrender.com>
 
 ## Prerequisites
 
