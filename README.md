@@ -35,3 +35,7 @@ Alternatively you may pull the docker image from dockerhub directly
 docker pull threatofwar/prometheus
 ```
 dockerhub: <https://hub.docker.com/r/threatofwar/prometheus>
+
+```bash
+docker run -d --name prometheus-container -p 9090:9090 threatofwar/prometheus
+```
